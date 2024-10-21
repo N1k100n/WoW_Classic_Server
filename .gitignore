@@ -6,8 +6,6 @@ Crashes
 
 warden_modules
 
-anticheat.conf.dist
-
 *.dist
 
 *.log
